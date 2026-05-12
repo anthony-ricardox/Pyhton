@@ -1,3 +1,4 @@
+    #
 preco = float(input('Qual o preço do produto?  R$'))
 novo = preco -  (preco *5 /100)
 
