@@ -1,7 +1,6 @@
         #Aluguel de Carros
 
 
-
 km = float(input('Quantos Km pecorrido? '))
 dia = int(input('Quantos dias  o carro foi alugado? '))
 pago = (km * 0.15) + (dia * 60)
