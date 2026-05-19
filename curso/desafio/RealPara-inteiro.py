@@ -1,3 +1,5 @@
+#Tornar um numero Real em Inteira
+
 import math
 
 numero = float(input('Digite um numero: '))
